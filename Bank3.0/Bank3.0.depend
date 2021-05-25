@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1611795004 source:d:\c++\bank3.0\src\account.cpp
+	"Account.h"
+
+1611882536 d:\c++\bank3.0\include\account.h
+	<string>
+	<iostream>
+
+1621871442 source:d:\c++\bank3.0\src\bank.cpp
+	"Bank.h"
+
+1621870766 d:\c++\bank3.0\include\bank.h
+	"Account.h"
+	<stdexcept>
+	<exception>
+	<fstream>
+	<sstream>
+	<iostream>
+	<iterator>
+	<map>
+
+1610815806 source:d:\c++\bank3.0\main.cpp
+	<iostream>
+	"Bank.h"
+
