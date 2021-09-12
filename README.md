@@ -1,6 +1,6 @@
 # BankSystem
 ## Basis of Project
-This project is essentially simulates the normal functions that you see at any bank. the major concepts used in the project is the basics of database, which is used by the file handling mechanisms in C++.
+This project is essentially simulates the normal functions that you see at any bank. The major concepts used in the project is the basics of database, which is used by the file handling mechanisms in C++.
 ## Major Functions for Project
 1) Open New Account
 2) Check Account Details
